@@ -1,0 +1,5 @@
+€}q(Ucolor_and_region]qUconvert_pixelsqaUregion_mask]q(Uget_region_coordinatesqheUhelper]q(Uload_highway_imageqUload_exit_ramp_imageqU
+load_imageq	eUht]q
+(UrhoqUimageqU	thresholdqUy1qUy2qUlineqUcolor_edgesqUmax_line_gapqUcomboqUthetaqU	blur_grayqUlow_thresholdqUedgesqU
+line_imageqUx2qUhigh_thresholdqUx1qUgrayqUmin_line_lengthqUlinesqUkernel_sizeqeUhough_transform_and_mask]q (Urunq!Uget_maskq"eUhough_transform]q#(h!Uapply_hough_transformq$eU
+canny_edge]q%(h!Uapply_canny_edge_detectionq&Uapply_gaussian_smoothingq'Ucreate_grayscale_imageq(eUcolor_selection]q)(hUget_color_thresholdq*eu.
